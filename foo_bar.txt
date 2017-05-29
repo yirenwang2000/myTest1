@@ -1,1 +1,1 @@
-foo_bar.txt version1
+foo_bar.txt version2
